@@ -1,8 +1,8 @@
 const tmi = require('tmi.js');
 
-var BOT_USERNAME = 'teste'
-var CHANNEL_NAME = 'teste'
-var OAUTH_TOKEN  ='teste'
+var BOT_USERNAME = 'bot_name'
+var CHANNEL_NAME = 'channel_name'
+var OAUTH_TOKEN  ='twitch_token'
 
 
 // Define configuration options
